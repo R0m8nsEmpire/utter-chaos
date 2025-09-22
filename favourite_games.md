@@ -7,5 +7,5 @@ I'll start things off with my favourite game!
 ## The List
 
 * Bloodborne
-* Portal 2
 * Minecraft
+* Portal 2
